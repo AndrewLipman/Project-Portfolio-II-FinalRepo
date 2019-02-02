@@ -1,2 +1,4 @@
 # Project-Portfolio-II-FinalRepo
-Collection of my coding projects from project portfolio II
+
+
+This repository is dedicated to my coding projects in Project Portfolio II. These projects will include my Integrative Restaraunt Database, Time Tracker Application, and a custom Quote application.

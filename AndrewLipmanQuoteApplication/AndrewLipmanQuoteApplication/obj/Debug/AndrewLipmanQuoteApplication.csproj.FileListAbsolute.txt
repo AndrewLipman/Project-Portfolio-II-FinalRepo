@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipmanQuoteApplication\AndrewLipmanQuoteApplication\bin\Debug\AndrewLipmanQuoteApplication.exe.config
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipmanQuoteApplication\AndrewLipmanQuoteApplication\bin\Debug\AndrewLipmanQuoteApplication.exe
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipmanQuoteApplication\AndrewLipmanQuoteApplication\bin\Debug\AndrewLipmanQuoteApplication.pdb
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipmanQuoteApplication\AndrewLipmanQuoteApplication\obj\Debug\AndrewLipmanQuoteApplication.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipmanQuoteApplication\AndrewLipmanQuoteApplication\obj\Debug\AndrewLipmanQuoteApplication.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipmanQuoteApplication\AndrewLipmanQuoteApplication\obj\Debug\AndrewLipmanQuoteApplication.exe
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipmanQuoteApplication\AndrewLipmanQuoteApplication\obj\Debug\AndrewLipmanQuoteApplication.pdb
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipmanQuoteApplication\AndrewLipmanQuoteApplication\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipmanQuoteApplication\AndrewLipmanQuoteApplication\obj\Debug\AndrewLipmanQuoteApplication.csproj.CopyComplete

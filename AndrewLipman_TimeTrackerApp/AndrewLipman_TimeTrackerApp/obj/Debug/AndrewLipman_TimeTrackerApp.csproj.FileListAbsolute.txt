@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipman_TimeTrackerApp\AndrewLipman_TimeTrackerApp\bin\Debug\AndrewLipman_TimeTrackerApp.exe.config
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipman_TimeTrackerApp\AndrewLipman_TimeTrackerApp\bin\Debug\AndrewLipman_TimeTrackerApp.exe
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipman_TimeTrackerApp\AndrewLipman_TimeTrackerApp\bin\Debug\AndrewLipman_TimeTrackerApp.pdb
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipman_TimeTrackerApp\AndrewLipman_TimeTrackerApp\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipman_TimeTrackerApp\AndrewLipman_TimeTrackerApp\obj\Debug\AndrewLipman_TimeTrackerApp.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipman_TimeTrackerApp\AndrewLipman_TimeTrackerApp\obj\Debug\AndrewLipman_TimeTrackerApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipman_TimeTrackerApp\AndrewLipman_TimeTrackerApp\obj\Debug\AndrewLipman_TimeTrackerApp.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipman_TimeTrackerApp\AndrewLipman_TimeTrackerApp\obj\Debug\AndrewLipman_TimeTrackerApp.exe
+\\vmware-host\Shared Folders\Desktop\FullSail\PP2(round2)\AndrewLipman_TimeTrackerApp\AndrewLipman_TimeTrackerApp\obj\Debug\AndrewLipman_TimeTrackerApp.pdb
